@@ -69,7 +69,7 @@ export default navbar([
       {
         text: "微信",
         icon: "wechat",
-        link: "https://img.newzone.top/wechat.svg",
+        link: "https://www.7xcx.cn",
       },
       { text: "Email", icon: "alias", link: "mailto:learndata@newzone.top" },
       { text: "Discord", icon: "group", link: "https://discord.gg/PZTQfJ4GjX" },
